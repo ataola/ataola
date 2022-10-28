@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Structures and Algorithms, Design Mode
 - 🎮 I'm currently playing *~~王者荣耀~~* *~~第五人格~~* *~~第九所~~* *~~明日方舟~~* *~~决战平安京~~* *~~阴阳师~~* *~~荒野乱斗~~*,  *~~原神~~*,*~~笛子~~*, *~~口琴~~*, *~~双截棍~~*, *~~太极~~*
 - 🎮 I'm currently drawing with procreate in my ipad pro.
-- 📫 Wechat me: rivertao002
+- 📫 Wechat me: *~~rivertao002~~*
 - 💬 My Website: [江涛网 - 程序员的成长自留地](https://zhengjiangtao.cn/) 
 
 ### Study
