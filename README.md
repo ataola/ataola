@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on sunyard
 - 🌱 I’m currently learning Data Structures and Algorithms, Design Mode
 - 🎮 I'm currently drawing with procreate in my ipad pro.
-- 📫 Wechat me: zjtzjt613
+- 📫 Wechat me: JiangTao-Sir
 - 💬 My Website: [江涛网 - 程序员的成长自留地](https://zhengjiangtao.cn/) 
 
 ### Study
