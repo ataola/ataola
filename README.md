@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Info
 
-Nothing, Just Go to Study.
+Nothing, Just Go To Study.
 
 - 📫 Wechat me: JiangTao-Sir
 - 💬 My Website: [江涛网 - 程序员的成长自留地](https://zhengjiangtao.cn/) 
