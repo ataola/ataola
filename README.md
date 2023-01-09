@@ -17,11 +17,22 @@ Here are some ideas to get you started:
 
 ### Info
 
-- 🔭 I’m currently working on sunyard
-- 🌱 I’m currently learning Data Structures and Algorithms, Design Mode
-- 🎮 I'm currently drawing with procreate in my ipad pro.
+Nothing, Just Go to Study.
+
 - 📫 Wechat me: JiangTao-Sir
 - 💬 My Website: [江涛网 - 程序员的成长自留地](https://zhengjiangtao.cn/) 
+
+### Tutorial
+
+- [Data Structures and Algorithms](https://zhengjiangtao.cn/coding-ts/)
+
+- [Design Patterns](https://zhengjiangtao.cn/coding/)
+
+- [Go To Study HarmonyOS Programming Development](https://github.com/ataola/Go_To_Study_HarmonyOS_Programming_Development)
+
+- [Go To Study The Art Of Chinese Speech](https://github.com/ataola/Go_To_Study_The_Art_of_Chinese_Speech)
+
+- [Go To Study Computer English](https://github.com/ataola/Go_To_Study_Computer_English)
 
 ### Study
 
@@ -41,6 +52,14 @@ Here are some ideas to get you started:
 
 
 ### Idea
+
+[![ataola - repo - Go_To_Study_HarmonyOS_Programming_Development](https://github-readme-stats.vercel.app/api/pin/?username=ataola&repo=Go_To_Study_HarmonyOS_Programming_Development)](https://github.com/ataola/Go_To_Study_HarmonyOS_Programming_Development)
+
+
+[![ataola - repo - Go_To_Study_The_Art_of_Chinese_Speech](https://github-readme-stats.vercel.app/api/pin/?username=ataola&repo=Go_To_Study_The_Art_of_Chinese_Speech)](https://github.com/ataola/Go_To_Study_The_Art_of_Chinese_Speech)
+
+[![ataola - repo - Go_To_Study_Computer_English](https://github-readme-stats.vercel.app/api/pin/?username=ataola&repo=Go_To_Study_Computer_English)](https://github.com/ataola/Go_To_Study_Computer_English)
+
 
 ...
 
