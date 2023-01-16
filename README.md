@@ -22,7 +22,7 @@ Nothing, Just Go To Study.
 - 📫 Wechat me: JiangTao-Sir
 - 💬 My Website: [江涛网 - 程序员的成长自留地](https://zhengjiangtao.cn/) 
 
-### Tutorial
+### Tutorial And Collection
 
 - [Data Structures and Algorithms](https://zhengjiangtao.cn/coding-ts/)
 
@@ -33,6 +33,8 @@ Nothing, Just Go To Study.
 - [Go To Study The Art Of Chinese Speech](https://github.com/ataola/Go_To_Study_The_Art_of_Chinese_Speech)
 
 - [Go To Study Computer English](https://github.com/ataola/Go_To_Study_Computer_English)
+
+- [Go To Study With Those Amazing Link](https://github.com/ataola/Go_To_Study_With_Those_Amazing_Link)
 
 ### Tools
 
