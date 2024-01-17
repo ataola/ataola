@@ -30,11 +30,11 @@ Nothing, Just Go To Study.
 
 - [Go To Study HarmonyOS Programming Development](https://github.com/ataola/Go_To_Study_HarmonyOS_Programming_Development)
 
-- [Go To Study The Art Of Chinese Speech](https://github.com/ataola/Go_To_Study_The_Art_of_Chinese_Speech)
+- ~~[Go To Study The Art Of Chinese Speech](https://github.com/ataola/Go_To_Study_The_Art_of_Chinese_Speech)~~
 
-- [Go To Study Computer English](https://github.com/ataola/Go_To_Study_Computer_English)
+- ~~[Go To Study Computer English](https://github.com/ataola/Go_To_Study_Computer_English)~~
 
-- [Go To Study With Those Amazing Link](https://github.com/ataola/Go_To_Study_With_Those_Amazing_Link)
+- ~~[Go To Study With Those Amazing Link](https://github.com/ataola/Go_To_Study_With_Those_Amazing_Link)~~
 
 ### Tools
 
@@ -49,4 +49,8 @@ Nothing, Just Go To Study.
 - [religion form with react.js and node.js](https://github.com/cnroadbridge/jingzhou-religion)
 
 - [a model website with vue.js](https://github.com/cnroadbridge/am-model)
+
+### What's More?
+
+- [Welcome to visit CN Road Bridge Studio](https://github.com/cnroadbridge)
 
